@@ -2,7 +2,7 @@ action.yml file:
 
 name: "Hello Actions"
 description: "Greet someone"
-author: "octocat@github.com"
+author: JoeyB26 
 
 inputs:
   MY_NAME:
